@@ -4,19 +4,19 @@
 
 
 
-A boat beneath a sunny sky,
+A *boat beneath a sunny sky,
 Lingering onward dreamily
 In an evening of July,
 
-Children three that nestle near,
+_Children three that nestle near,
 Eager eye and willing ear,
 Pleased a simple tale to hear,
 
-Long has paled that sunny sky:
+~~Long has paled that sunny sky:
 Echoes fade and memories die:
 Autumn frosts have slain July.
 
-Still she haunts me, phantomwise,
+**Still she haunts me, phantomwise,
 Alice moving under skies
 Never seen by waking eyes.
 
